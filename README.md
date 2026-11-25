@@ -13,8 +13,8 @@ Hardware engineer at HubTech KZ · Captain of robotics team Pulsar
 
 ## Achievements
 
-- 1st place, Decentrathon 6.0, powered by baitc.org
-- 1st place, National Hackathon by kazatomprom.kz 2026
+- 1st place, Decentrathon 6.0, powered by [baitc.org](https://baitc.org)
+- 1st place, National Hackathon by [kazatomprom.kz](https://www.kazatomprom.kz) 2026
 - 2nd place, CP Open Cup III (2025)
 - Finalist, World Robot Olympiad 2026 (top 20 in Kazakhstan)
 
